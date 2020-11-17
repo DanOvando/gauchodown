@@ -1,2 +1,4 @@
-\contentsline {chapter}{Curriculum Vitae}{vi}{Doc-Start}
-\contentsline {chapter}{Abstract}{viii}{Doc-Start}
+\contentsline {chapter}{Curriculum Vitae}{vi}{Doc-Start}% 
+\contentsline {chapter}{Abstract}{viii}{Doc-Start}% 
+\contentsline {chapter}{List of Tables}{x}{chapter*.2}% 
+\contentsline {chapter}{List of Figures}{xi}{chapter*.3}% 
